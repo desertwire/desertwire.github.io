@@ -1,0 +1,5 @@
+nano.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/1000px-Gnu-nano.svg.png
+
+vim.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png
